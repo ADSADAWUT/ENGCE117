@@ -1,0 +1,2 @@
+User input : 36
+36 degree Celsius = 96.8 degree Fahrenheit

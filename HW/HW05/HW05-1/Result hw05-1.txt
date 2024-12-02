@@ -1,0 +1,2 @@
+Enter 4 word : A B C D
+Result: D C B A 

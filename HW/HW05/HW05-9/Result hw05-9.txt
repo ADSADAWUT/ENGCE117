@@ -1,0 +1,3 @@
+Input A Point (x1 y1): 6 -8
+Input B Point (x2 y2): 3 3
+Mid Point of A and B is ( 4.5, -2.5 )

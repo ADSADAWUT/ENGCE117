@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.0">
+  <diagram name="หน้า-1" id="0fBWH7ecKhA2h3ilsx1q">
+    <mxGraphModel dx="1666" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dpMSwJJegg2xjnV_pQBU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F6e6mWZ_462r1k3fH2Ds-2" target="dpMSwJJegg2xjnV_pQBU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F6e6mWZ_462r1k3fH2Ds-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F6e6mWZ_462r1k3fH2Ds-12" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dpMSwJJegg2xjnV_pQBU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpMSwJJegg2xjnV_pQBU-1" target="dpMSwJJegg2xjnV_pQBU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpMSwJJegg2xjnV_pQBU-1" value="รับค่าความสูงและความกว้างจากผู้ใช้" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dpMSwJJegg2xjnV_pQBU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpMSwJJegg2xjnV_pQBU-3" target="dpMSwJJegg2xjnV_pQBU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpMSwJJegg2xjnV_pQBU-3" value="คำนวณพื้นที่ 3 เหลี่ยมโดยใช้สูตร&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;สูงx&lt;/span&gt;กว้าง\2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="240" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dpMSwJJegg2xjnV_pQBU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpMSwJJegg2xjnV_pQBU-4" target="F6e6mWZ_462r1k3fH2Ds-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpMSwJJegg2xjnV_pQBU-4" value="แสดงผลลัพธ์ของพื้นที่ 3 เหลี่ยม" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="340" width="209" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

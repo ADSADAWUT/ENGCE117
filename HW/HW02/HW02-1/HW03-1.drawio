@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.9">
+  <diagram name="หน้า-1" id="M9BRJRSns7ZfJw439Zik">
+    <mxGraphModel dx="1906" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbwaW9g2SWI2Lnia_DIY-1" target="zbwaW9g2SWI2Lnia_DIY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbwaW9g2SWI2Lnia_DIY-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-2" value="จัด&amp;nbsp;CODEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbwaW9g2SWI2Lnia_DIY-4" target="zbwaW9g2SWI2Lnia_DIY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbwaW9g2SWI2Lnia_DIY-4" target="zbwaW9g2SWI2Lnia_DIY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-4" value="จัดCODEXถูกหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbwaW9g2SWI2Lnia_DIY-10" target="zbwaW9g2SWI2Lnia_DIY-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="214" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-10" value="ตรวจCodexใหม่" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbwaW9g2SWI2Lnia_DIY-14" target="zbwaW9g2SWI2Lnia_DIY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="404" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-18" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-19" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zbwaW9g2SWI2Lnia_DIY-20" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

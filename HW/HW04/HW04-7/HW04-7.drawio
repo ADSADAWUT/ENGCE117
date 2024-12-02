@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
+  <diagram name="หน้า-1" id="VJfsaII8qTpIffR73HTD">
+    <mxGraphModel dx="952" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dP7WsrVZyQUWPuy2CXYb-2" target="dP7WsrVZyQUWPuy2CXYb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dP7WsrVZyQUWPuy2CXYb-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-4" value="รับข้อมูล&amp;nbsp;องศาเซลเซียส" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="190" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dP7WsrVZyQUWPuy2CXYb-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-10" value="คำนวณองศาเซลเซียส ที่แปลงเป็นฟาเรนไฮต์&amp;nbsp;&lt;div&gt;(ข้อมูลองศาเซลเซียส x 1.8) + 32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="290" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dP7WsrVZyQUWPuy2CXYb-14" target="dP7WsrVZyQUWPuy2CXYb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-14" value="แสดง&amp;nbsp;องศาเซลเซียส และฟาเรนไฮต์" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="390" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dP7WsrVZyQUWPuy2CXYb-15" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

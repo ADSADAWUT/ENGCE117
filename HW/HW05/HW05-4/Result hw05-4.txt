@@ -1,0 +1,3 @@
+Enter Number1 : 50 
+Enter Number2 : 50
+Number1 equal Number2

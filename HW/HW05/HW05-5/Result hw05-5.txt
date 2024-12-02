@@ -1,0 +1,2 @@
+Input : -22
+-22 is an even integer
