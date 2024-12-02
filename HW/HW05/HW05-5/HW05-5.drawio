@@ -7,7 +7,7 @@
         <mxCell id="0PrjnQPJkk8ckZR_XSUj-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0PrjnQPJkk8ckZR_XSUj-2" target="0PrjnQPJkk8ckZR_XSUj-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0PrjnQPJkk8ckZR_XSUj-2" value="เลขเป็นคำ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0PrjnQPJkk8ckZR_XSUj-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-473" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0PrjnQPJkk8ckZR_XSUj-4" value="รับข้อมูลUser" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
