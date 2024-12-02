@@ -22,13 +22,13 @@ int main() {
     int num , fixnum = 9 , sum = 0 ;
 
     printf("Enter number: ") ;
-    scanf( "%d" , &num) ;
+    scanf( "%d" , &num ) ;
     printf( "Series = " ) ;
     
-    for ( int i = 1; i <= num; i++ ) {
+    for ( int i = 1; i <= num ; i++ ) {
         printf( "%d" , fixnum ) ;
-        if (i < num) {
-            printf(" + ") ;
+        if ( i < num ) {
+            printf( " + " ) ;
         }
         sum += fixnum ;
         fixnum = fixnum * 10 + 9 ;
