@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    int n, i ;
+    int n , i ;
     int a = 1 , b = 1 , next ;
     int sum = 0 ;
 
     printf( "Enter number : " ) ;
     scanf( "%d" , &n ) ;
 
-    printf("Series = ") ;
+    printf( "Series = " ) ;
     for ( i = 1 ; i <= n ; i++ ) {
         if ( i == 1 ) {
             printf( "%d" , a ) ;
